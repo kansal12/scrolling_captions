@@ -1,0 +1,104 @@
+[Script Info]
+Title: Converted Subtitle
+Original Script: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.50,Default,,0,0,0,,{\c&H000000&\3c&H00FFFF&}Abhi{\c&HFFFFFF&\3c&H000000&} na jao chod kar ke dil abhi bara nahi
+Dialogue: 0,0:00:02.50,0:00:03.44,Default,,0,0,0,,Abhi {\c&H000000&\3c&H00FFFF&}na{\c&HFFFFFF&\3c&H000000&} jao chod kar ke dil abhi bara nahi
+Dialogue: 0,0:00:03.44,0:00:04.74,Default,,0,0,0,,Abhi na {\c&H000000&\3c&H00FFFF&}jao{\c&HFFFFFF&\3c&H000000&} chod kar ke dil abhi bara nahi
+Dialogue: 0,0:00:04.74,0:00:05.78,Default,,0,0,0,,Abhi na jao {\c&H000000&\3c&H00FFFF&}chod{\c&HFFFFFF&\3c&H000000&} kar ke dil abhi bara nahi
+Dialogue: 0,0:00:05.78,0:00:06.94,Default,,0,0,0,,Abhi na jao chod {\c&H000000&\3c&H00FFFF&}kar{\c&HFFFFFF&\3c&H000000&} ke dil abhi bara nahi
+Dialogue: 0,0:00:06.94,0:00:08.38,Default,,0,0,0,,Abhi na jao chod kar {\c&H000000&\3c&H00FFFF&}ke{\c&HFFFFFF&\3c&H000000&} dil abhi bara nahi
+Dialogue: 0,0:00:08.38,0:00:09.12,Default,,0,0,0,,Abhi na jao chod kar ke {\c&H000000&\3c&H00FFFF&}dil{\c&HFFFFFF&\3c&H000000&} abhi bara nahi
+Dialogue: 0,0:00:09.12,0:00:10.78,Default,,0,0,0,,Abhi na jao chod kar ke dil {\c&H000000&\3c&H00FFFF&}abhi{\c&HFFFFFF&\3c&H000000&} bara nahi
+Dialogue: 0,0:00:10.78,0:00:11.48,Default,,0,0,0,,Abhi na jao chod kar ke dil abhi {\c&H000000&\3c&H00FFFF&}bara{\c&HFFFFFF&\3c&H000000&} nahi
+Dialogue: 0,0:00:11.48,0:00:14.04,Default,,0,0,0,,Abhi na jao chod kar ke dil abhi bara {\c&H000000&\3c&H00FFFF&}nahi{\c&HFFFFFF&\3c&H000000&}
+Dialogue: 0,0:00:31.34,0:00:33.02,Default,,0,0,0,,{\c&H000000&\3c&H00FFFF&}Abhi{\c&HFFFFFF&\3c&H000000&} to aaye ho bahar ban ke chaye ho
+Dialogue: 0,0:00:33.02,0:00:34.34,Default,,0,0,0,,Abhi {\c&H000000&\3c&H00FFFF&}to{\c&HFFFFFF&\3c&H000000&} aaye ho bahar ban ke chaye ho
+Dialogue: 0,0:00:34.34,0:00:35.34,Default,,0,0,0,,Abhi to {\c&H000000&\3c&H00FFFF&}aaye{\c&HFFFFFF&\3c&H000000&} ho bahar ban ke chaye ho
+Dialogue: 0,0:00:35.34,0:00:35.86,Default,,0,0,0,,Abhi to aaye {\c&H000000&\3c&H00FFFF&}ho{\c&HFFFFFF&\3c&H000000&} bahar ban ke chaye ho
+Dialogue: 0,0:00:35.86,0:00:37.16,Default,,0,0,0,,Abhi to aaye ho {\c&H000000&\3c&H00FFFF&}bahar{\c&HFFFFFF&\3c&H000000&} ban ke chaye ho
+Dialogue: 0,0:00:37.16,0:00:37.84,Default,,0,0,0,,Abhi to aaye ho bahar {\c&H000000&\3c&H00FFFF&}ban{\c&HFFFFFF&\3c&H000000&} ke chaye ho
+Dialogue: 0,0:00:37.84,0:00:38.20,Default,,0,0,0,,Abhi to aaye ho bahar ban {\c&H000000&\3c&H00FFFF&}ke{\c&HFFFFFF&\3c&H000000&} chaye ho
+Dialogue: 0,0:00:38.20,0:00:39.10,Default,,0,0,0,,Abhi to aaye ho bahar ban ke {\c&H000000&\3c&H00FFFF&}chaye{\c&HFFFFFF&\3c&H000000&} ho
+Dialogue: 0,0:00:39.10,0:00:39.88,Default,,0,0,0,,Abhi to aaye ho bahar ban ke chaye {\c&H000000&\3c&H00FFFF&}ho{\c&HFFFFFF&\3c&H000000&}
+Dialogue: 0,0:00:39.88,0:00:40.88,Default,,0,0,0,,{\c&H000000&\3c&H00FFFF&}Hawa{\c&HFFFFFF&\3c&H000000&} zara mahak to le nazar zara behak to le
+Dialogue: 0,0:00:40.88,0:00:41.88,Default,,0,0,0,,Hawa {\c&H000000&\3c&H00FFFF&}zara{\c&HFFFFFF&\3c&H000000&} mahak to le nazar zara behak to le
+Dialogue: 0,0:00:41.88,0:00:42.76,Default,,0,0,0,,Hawa zara {\c&H000000&\3c&H00FFFF&}mahak{\c&HFFFFFF&\3c&H000000&} to le nazar zara behak to le
+Dialogue: 0,0:00:42.76,0:00:43.20,Default,,0,0,0,,Hawa zara mahak {\c&H000000&\3c&H00FFFF&}to{\c&HFFFFFF&\3c&H000000&} le nazar zara behak to le
+Dialogue: 0,0:00:43.20,0:00:43.76,Default,,0,0,0,,Hawa zara mahak to {\c&H000000&\3c&H00FFFF&}le{\c&HFFFFFF&\3c&H000000&} nazar zara behak to le
+Dialogue: 0,0:00:43.76,0:00:44.80,Default,,0,0,0,,Hawa zara mahak to le {\c&H000000&\3c&H00FFFF&}nazar{\c&HFFFFFF&\3c&H000000&} zara behak to le
+Dialogue: 0,0:00:44.80,0:00:45.80,Default,,0,0,0,,Hawa zara mahak to le nazar {\c&H000000&\3c&H00FFFF&}zara{\c&HFFFFFF&\3c&H000000&} behak to le
+Dialogue: 0,0:00:45.80,0:00:46.72,Default,,0,0,0,,Hawa zara mahak to le nazar zara {\c&H000000&\3c&H00FFFF&}behak{\c&HFFFFFF&\3c&H000000&} to le
+Dialogue: 0,0:00:46.72,0:00:47.04,Default,,0,0,0,,Hawa zara mahak to le nazar zara behak {\c&H000000&\3c&H00FFFF&}to{\c&HFFFFFF&\3c&H000000&} le
+Dialogue: 0,0:00:47.04,0:00:47.74,Default,,0,0,0,,Hawa zara mahak to le nazar zara behak to {\c&H000000&\3c&H00FFFF&}le{\c&HFFFFFF&\3c&H000000&}
+Dialogue: 0,0:00:47.74,0:00:48.58,Default,,0,0,0,,{\c&H000000&\3c&H00FFFF&}Yeh{\c&HFFFFFF&\3c&H000000&} shaam dhal to le zara
+Dialogue: 0,0:00:48.58,0:00:49.04,Default,,0,0,0,,Yeh {\c&H000000&\3c&H00FFFF&}shaam{\c&HFFFFFF&\3c&H000000&} dhal to le zara
+Dialogue: 0,0:00:49.04,0:00:49.68,Default,,0,0,0,,Yeh shaam {\c&H000000&\3c&H00FFFF&}dhal{\c&HFFFFFF&\3c&H000000&} to le zara
+Dialogue: 0,0:00:49.68,0:00:50.10,Default,,0,0,0,,Yeh shaam dhal {\c&H000000&\3c&H00FFFF&}to{\c&HFFFFFF&\3c&H000000&} le zara
+Dialogue: 0,0:00:50.10,0:00:50.66,Default,,0,0,0,,Yeh shaam dhal to {\c&H000000&\3c&H00FFFF&}le{\c&HFFFFFF&\3c&H000000&} zara
+Dialogue: 0,0:00:50.66,0:00:52.44,Default,,0,0,0,,Yeh shaam dhal to le {\c&H000000&\3c&H00FFFF&}zara{\c&HFFFFFF&\3c&H000000&}
+Dialogue: 0,0:00:54.58,0:00:55.98,Default,,0,0,0,,{\c&H000000&\3c&H00FFFF&}Yeh{\c&HFFFFFF&\3c&H000000&} shaam dhal to le zara yeh dil sambar to le zara
+Dialogue: 0,0:00:55.98,0:00:56.88,Default,,0,0,0,,Yeh {\c&H000000&\3c&H00FFFF&}shaam{\c&HFFFFFF&\3c&H000000&} dhal to le zara yeh dil sambar to le zara
+Dialogue: 0,0:00:56.88,0:00:57.60,Default,,0,0,0,,Yeh shaam {\c&H000000&\3c&H00FFFF&}dhal{\c&HFFFFFF&\3c&H000000&} to le zara yeh dil sambar to le zara
+Dialogue: 0,0:00:57.60,0:00:58.00,Default,,0,0,0,,Yeh shaam dhal {\c&H000000&\3c&H00FFFF&}to{\c&HFFFFFF&\3c&H000000&} le zara yeh dil sambar to le zara
+Dialogue: 0,0:00:58.00,0:00:58.52,Default,,0,0,0,,Yeh shaam dhal to {\c&H000000&\3c&H00FFFF&}le{\c&HFFFFFF&\3c&H000000&} zara yeh dil sambar to le zara
+Dialogue: 0,0:00:58.52,0:00:59.38,Default,,0,0,0,,Yeh shaam dhal to le {\c&H000000&\3c&H00FFFF&}zara{\c&HFFFFFF&\3c&H000000&} yeh dil sambar to le zara
+Dialogue: 0,0:00:59.38,0:00:59.96,Default,,0,0,0,,Yeh shaam dhal to le zara {\c&H000000&\3c&H00FFFF&}yeh{\c&HFFFFFF&\3c&H000000&} dil sambar to le zara
+Dialogue: 0,0:00:59.96,0:01:00.52,Default,,0,0,0,,Yeh shaam dhal to le zara yeh {\c&H000000&\3c&H00FFFF&}dil{\c&HFFFFFF&\3c&H000000&} sambar to le zara
+Dialogue: 0,0:01:00.52,0:01:01.58,Default,,0,0,0,,Yeh shaam dhal to le zara yeh dil {\c&H000000&\3c&H00FFFF&}sambar{\c&HFFFFFF&\3c&H000000&} to le zara
+Dialogue: 0,0:01:01.58,0:01:01.90,Default,,0,0,0,,Yeh shaam dhal to le zara yeh dil sambar {\c&H000000&\3c&H00FFFF&}to{\c&HFFFFFF&\3c&H000000&} le zara
+Dialogue: 0,0:01:01.90,0:01:02.58,Default,,0,0,0,,Yeh shaam dhal to le zara yeh dil sambar to {\c&H000000&\3c&H00FFFF&}le{\c&HFFFFFF&\3c&H000000&} zara
+Dialogue: 0,0:01:02.58,0:01:03.42,Default,,0,0,0,,Yeh shaam dhal to le zara yeh dil sambar to le {\c&H000000&\3c&H00FFFF&}zara{\c&HFFFFFF&\3c&H000000&}
+Dialogue: 0,0:01:03.42,0:01:03.88,Default,,0,0,0,,{\c&H000000&\3c&H00FFFF&}Ma{\c&HFFFFFF&\3c&H000000&} thodi der ji to lo nash ke ghot pee to lo
+Dialogue: 0,0:01:03.88,0:01:04.84,Default,,0,0,0,,Ma {\c&H000000&\3c&H00FFFF&}thodi{\c&HFFFFFF&\3c&H000000&} der ji to lo nash ke ghot pee to lo
+Dialogue: 0,0:01:04.84,0:01:05.82,Default,,0,0,0,,Ma thodi {\c&H000000&\3c&H00FFFF&}der{\c&HFFFFFF&\3c&H000000&} ji to lo nash ke ghot pee to lo
+Dialogue: 0,0:01:05.82,0:01:06.40,Default,,0,0,0,,Ma thodi der {\c&H000000&\3c&H00FFFF&}ji{\c&HFFFFFF&\3c&H000000&} to lo nash ke ghot pee to lo
+Dialogue: 0,0:01:06.40,0:01:06.84,Default,,0,0,0,,Ma thodi der ji {\c&H000000&\3c&H00FFFF&}to{\c&HFFFFFF&\3c&H000000&} lo nash ke ghot pee to lo
+Dialogue: 0,0:01:06.84,0:01:07.36,Default,,0,0,0,,Ma thodi der ji to {\c&H000000&\3c&H00FFFF&}lo{\c&HFFFFFF&\3c&H000000&} nash ke ghot pee to lo
+Dialogue: 0,0:01:07.36,0:01:08.30,Default,,0,0,0,,Ma thodi der ji to lo {\c&H000000&\3c&H00FFFF&}nash{\c&HFFFFFF&\3c&H000000&} ke ghot pee to lo
+Dialogue: 0,0:01:08.30,0:01:08.80,Default,,0,0,0,,Ma thodi der ji to lo nash {\c&H000000&\3c&H00FFFF&}ke{\c&HFFFFFF&\3c&H000000&} ghot pee to lo
+Dialogue: 0,0:01:08.80,0:01:09.62,Default,,0,0,0,,Ma thodi der ji to lo nash ke {\c&H000000&\3c&H00FFFF&}ghot{\c&HFFFFFF&\3c&H000000&} pee to lo
+Dialogue: 0,0:01:09.62,0:01:10.46,Default,,0,0,0,,Ma thodi der ji to lo nash ke ghot {\c&H000000&\3c&H00FFFF&}pee{\c&HFFFFFF&\3c&H000000&} to lo
+Dialogue: 0,0:01:10.46,0:01:14.66,Default,,0,0,0,,Ma thodi der ji to lo nash ke ghot pee {\c&H000000&\3c&H00FFFF&}to{\c&HFFFFFF&\3c&H000000&} lo
+Dialogue: 0,0:01:14.66,0:01:15.10,Default,,0,0,0,,Ma thodi der ji to lo nash ke ghot pee to {\c&H000000&\3c&H00FFFF&}lo{\c&HFFFFFF&\3c&H000000&}
+Dialogue: 0,0:01:15.10,0:01:16.28,Default,,0,0,0,,{\c&H000000&\3c&H00FFFF&}Abhi{\c&HFFFFFF&\3c&H000000&} to kuch kaha nahi, abhi to kuch usna nahi
+Dialogue: 0,0:01:16.28,0:01:16.56,Default,,0,0,0,,Abhi {\c&H000000&\3c&H00FFFF&}to{\c&HFFFFFF&\3c&H000000&} kuch kaha nahi, abhi to kuch usna nahi
+Dialogue: 0,0:01:16.56,0:01:17.12,Default,,0,0,0,,Abhi to {\c&H000000&\3c&H00FFFF&}kuch{\c&HFFFFFF&\3c&H000000&} kaha nahi, abhi to kuch usna nahi
+Dialogue: 0,0:01:17.12,0:01:18.30,Default,,0,0,0,,Abhi to kuch {\c&H000000&\3c&H00FFFF&}kaha{\c&HFFFFFF&\3c&H000000&} nahi, abhi to kuch usna nahi
+Dialogue: 0,0:01:18.30,0:01:19.22,Default,,0,0,0,,Abhi to kuch kaha {\c&H000000&\3c&H00FFFF&}nahi,{\c&HFFFFFF&\3c&H000000&} abhi to kuch usna nahi
+Dialogue: 0,0:01:19.22,0:01:19.50,Default,,0,0,0,,Abhi to kuch kaha nahi, abhi to kuch usna nahi
+Dialogue: 0,0:01:19.50,0:01:20.28,Default,,0,0,0,,Abhi to kuch kaha nahi, {\c&H000000&\3c&H00FFFF&}abhi{\c&HFFFFFF&\3c&H000000&} to kuch usna nahi
+Dialogue: 0,0:01:20.28,0:01:20.52,Default,,0,0,0,,Abhi to kuch kaha nahi, abhi {\c&H000000&\3c&H00FFFF&}to{\c&HFFFFFF&\3c&H000000&} kuch usna nahi
+Dialogue: 0,0:01:20.52,0:01:21.12,Default,,0,0,0,,Abhi to kuch kaha nahi, abhi to {\c&H000000&\3c&H00FFFF&}kuch{\c&HFFFFFF&\3c&H000000&} usna nahi
+Dialogue: 0,0:01:21.12,0:01:21.98,Default,,0,0,0,,Abhi to kuch kaha nahi, abhi to kuch {\c&H000000&\3c&H00FFFF&}usna{\c&HFFFFFF&\3c&H000000&} nahi
+Dialogue: 0,0:01:21.98,0:01:23.08,Default,,0,0,0,,Abhi to kuch kaha nahi, abhi to kuch usna {\c&H000000&\3c&H00FFFF&}nahi{\c&HFFFFFF&\3c&H000000&}
+Dialogue: 0,0:01:23.08,0:01:23.80,Default,,0,0,0,,{\c&H000000&\3c&H00FFFF&}Pura{\c&HFFFFFF&\3c&H000000&} na mano baat ka yeh pyaar hai gila nahi
+Dialogue: 0,0:01:23.80,0:01:24.52,Default,,0,0,0,,Pura {\c&H000000&\3c&H00FFFF&}na{\c&HFFFFFF&\3c&H000000&} mano baat ka yeh pyaar hai gila nahi
+Dialogue: 0,0:01:24.52,0:01:25.22,Default,,0,0,0,,Pura na {\c&H000000&\3c&H00FFFF&}mano{\c&HFFFFFF&\3c&H000000&} baat ka yeh pyaar hai gila nahi
+Dialogue: 0,0:01:25.22,0:01:26.48,Default,,0,0,0,,Pura na mano {\c&H000000&\3c&H00FFFF&}baat{\c&HFFFFFF&\3c&H000000&} ka yeh pyaar hai gila nahi
+Dialogue: 0,0:01:26.48,0:01:26.86,Default,,0,0,0,,Pura na mano baat {\c&H000000&\3c&H00FFFF&}ka{\c&HFFFFFF&\3c&H000000&} yeh pyaar hai gila nahi
+Dialogue: 0,0:01:26.86,0:01:27.80,Default,,0,0,0,,Pura na mano baat ka {\c&H000000&\3c&H00FFFF&}yeh{\c&HFFFFFF&\3c&H000000&} pyaar hai gila nahi
+Dialogue: 0,0:01:27.80,0:01:28.40,Default,,0,0,0,,Pura na mano baat ka yeh {\c&H000000&\3c&H00FFFF&}pyaar{\c&HFFFFFF&\3c&H000000&} hai gila nahi
+Dialogue: 0,0:01:28.40,0:01:29.18,Default,,0,0,0,,Pura na mano baat ka yeh pyaar {\c&H000000&\3c&H00FFFF&}hai{\c&HFFFFFF&\3c&H000000&} gila nahi
+Dialogue: 0,0:01:29.18,0:01:29.98,Default,,0,0,0,,Pura na mano baat ka yeh pyaar hai {\c&H000000&\3c&H00FFFF&}gila{\c&HFFFFFF&\3c&H000000&} nahi
+Dialogue: 0,0:01:29.98,0:01:31.10,Default,,0,0,0,,Pura na mano baat ka yeh pyaar hai gila {\c&H000000&\3c&H00FFFF&}nahi{\c&HFFFFFF&\3c&H000000&}
+Dialogue: 0,0:01:32.34,0:01:33.04,Default,,0,0,0,,{\c&H000000&\3c&H00FFFF&}Abhi{\c&HFFFFFF&\3c&H000000&} na jao chod kar ke dil abhi bara nahi
+Dialogue: 0,0:01:33.04,0:01:33.24,Default,,0,0,0,,Abhi {\c&H000000&\3c&H00FFFF&}na{\c&HFFFFFF&\3c&H000000&} jao chod kar ke dil abhi bara nahi
+Dialogue: 0,0:01:33.24,0:01:33.58,Default,,0,0,0,,Abhi na {\c&H000000&\3c&H00FFFF&}jao{\c&HFFFFFF&\3c&H000000&} chod kar ke dil abhi bara nahi
+Dialogue: 0,0:01:33.58,0:01:34.02,Default,,0,0,0,,Abhi na jao {\c&H000000&\3c&H00FFFF&}chod{\c&HFFFFFF&\3c&H000000&} kar ke dil abhi bara nahi
+Dialogue: 0,0:01:34.02,0:01:34.66,Default,,0,0,0,,Abhi na jao chod {\c&H000000&\3c&H00FFFF&}kar{\c&HFFFFFF&\3c&H000000&} ke dil abhi bara nahi
+Dialogue: 0,0:01:34.66,0:01:35.40,Default,,0,0,0,,Abhi na jao chod kar {\c&H000000&\3c&H00FFFF&}ke{\c&HFFFFFF&\3c&H000000&} dil abhi bara nahi
+Dialogue: 0,0:01:35.40,0:01:35.78,Default,,0,0,0,,Abhi na jao chod kar ke {\c&H000000&\3c&H00FFFF&}dil{\c&HFFFFFF&\3c&H000000&} abhi bara nahi
+Dialogue: 0,0:01:35.78,0:01:36.44,Default,,0,0,0,,Abhi na jao chod kar ke dil {\c&H000000&\3c&H00FFFF&}abhi{\c&HFFFFFF&\3c&H000000&} bara nahi
+Dialogue: 0,0:01:36.44,0:01:36.70,Default,,0,0,0,,Abhi na jao chod kar ke dil abhi {\c&H000000&\3c&H00FFFF&}bara{\c&HFFFFFF&\3c&H000000&} nahi
+Dialogue: 0,0:01:36.70,0:01:37.38,Default,,0,0,0,,Abhi na jao chod kar ke dil abhi bara {\c&H000000&\3c&H00FFFF&}nahi{\c&HFFFFFF&\3c&H000000&}

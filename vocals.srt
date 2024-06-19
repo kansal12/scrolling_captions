@@ -1,0 +1,360 @@
+1
+00:00:00,000 --> 00:00:02,500
+<u>Abhi</u> na jao chod kar ke dil abhi bara nahi
+
+2
+00:00:02,500 --> 00:00:03,440
+Abhi <u>na</u> jao chod kar ke dil abhi bara nahi
+
+3
+00:00:03,440 --> 00:00:04,740
+Abhi na <u>jao</u> chod kar ke dil abhi bara nahi
+
+4
+00:00:04,740 --> 00:00:05,780
+Abhi na jao <u>chod</u> kar ke dil abhi bara nahi
+
+5
+00:00:05,780 --> 00:00:06,940
+Abhi na jao chod <u>kar</u> ke dil abhi bara nahi
+
+6
+00:00:06,940 --> 00:00:08,380
+Abhi na jao chod kar <u>ke</u> dil abhi bara nahi
+
+7
+00:00:08,380 --> 00:00:09,120
+Abhi na jao chod kar ke <u>dil</u> abhi bara nahi
+
+8
+00:00:09,120 --> 00:00:10,780
+Abhi na jao chod kar ke dil <u>abhi</u> bara nahi
+
+9
+00:00:10,780 --> 00:00:11,480
+Abhi na jao chod kar ke dil abhi <u>bara</u> nahi
+
+10
+00:00:11,480 --> 00:00:14,040
+Abhi na jao chod kar ke dil abhi bara <u>nahi</u>
+
+11
+00:00:31,340 --> 00:00:33,020
+<u>Abhi</u> to aaye ho bahar ban ke chaye ho
+
+12
+00:00:33,020 --> 00:00:34,340
+Abhi <u>to</u> aaye ho bahar ban ke chaye ho
+
+13
+00:00:34,340 --> 00:00:35,340
+Abhi to <u>aaye</u> ho bahar ban ke chaye ho
+
+14
+00:00:35,340 --> 00:00:35,860
+Abhi to aaye <u>ho</u> bahar ban ke chaye ho
+
+15
+00:00:35,860 --> 00:00:37,160
+Abhi to aaye ho <u>bahar</u> ban ke chaye ho
+
+16
+00:00:37,160 --> 00:00:37,840
+Abhi to aaye ho bahar <u>ban</u> ke chaye ho
+
+17
+00:00:37,840 --> 00:00:38,200
+Abhi to aaye ho bahar ban <u>ke</u> chaye ho
+
+18
+00:00:38,200 --> 00:00:39,100
+Abhi to aaye ho bahar ban ke <u>chaye</u> ho
+
+19
+00:00:39,100 --> 00:00:39,880
+Abhi to aaye ho bahar ban ke chaye <u>ho</u>
+
+20
+00:00:39,880 --> 00:00:40,880
+<u>Hawa</u> zara mahak to le nazar zara behak to le
+
+21
+00:00:40,880 --> 00:00:41,880
+Hawa <u>zara</u> mahak to le nazar zara behak to le
+
+22
+00:00:41,880 --> 00:00:42,760
+Hawa zara <u>mahak</u> to le nazar zara behak to le
+
+23
+00:00:42,760 --> 00:00:43,200
+Hawa zara mahak <u>to</u> le nazar zara behak to le
+
+24
+00:00:43,200 --> 00:00:43,760
+Hawa zara mahak to <u>le</u> nazar zara behak to le
+
+25
+00:00:43,760 --> 00:00:44,800
+Hawa zara mahak to le <u>nazar</u> zara behak to le
+
+26
+00:00:44,800 --> 00:00:45,800
+Hawa zara mahak to le nazar <u>zara</u> behak to le
+
+27
+00:00:45,800 --> 00:00:46,720
+Hawa zara mahak to le nazar zara <u>behak</u> to le
+
+28
+00:00:46,720 --> 00:00:47,040
+Hawa zara mahak to le nazar zara behak <u>to</u> le
+
+29
+00:00:47,040 --> 00:00:47,740
+Hawa zara mahak to le nazar zara behak to <u>le</u>
+
+30
+00:00:47,740 --> 00:00:48,580
+<u>Yeh</u> shaam dhal to le zara
+
+31
+00:00:48,580 --> 00:00:49,040
+Yeh <u>shaam</u> dhal to le zara
+
+32
+00:00:49,040 --> 00:00:49,680
+Yeh shaam <u>dhal</u> to le zara
+
+33
+00:00:49,680 --> 00:00:50,100
+Yeh shaam dhal <u>to</u> le zara
+
+34
+00:00:50,100 --> 00:00:50,660
+Yeh shaam dhal to <u>le</u> zara
+
+35
+00:00:50,660 --> 00:00:52,440
+Yeh shaam dhal to le <u>zara</u>
+
+36
+00:00:54,580 --> 00:00:55,980
+<u>Yeh</u> shaam dhal to le zara yeh dil sambar to le zara
+
+37
+00:00:55,980 --> 00:00:56,880
+Yeh <u>shaam</u> dhal to le zara yeh dil sambar to le zara
+
+38
+00:00:56,880 --> 00:00:57,600
+Yeh shaam <u>dhal</u> to le zara yeh dil sambar to le zara
+
+39
+00:00:57,600 --> 00:00:58,000
+Yeh shaam dhal <u>to</u> le zara yeh dil sambar to le zara
+
+40
+00:00:58,000 --> 00:00:58,520
+Yeh shaam dhal to <u>le</u> zara yeh dil sambar to le zara
+
+41
+00:00:58,520 --> 00:00:59,380
+Yeh shaam dhal to le <u>zara</u> yeh dil sambar to le zara
+
+42
+00:00:59,380 --> 00:00:59,960
+Yeh shaam dhal to le zara <u>yeh</u> dil sambar to le zara
+
+43
+00:00:59,960 --> 00:01:00,520
+Yeh shaam dhal to le zara yeh <u>dil</u> sambar to le zara
+
+44
+00:01:00,520 --> 00:01:01,580
+Yeh shaam dhal to le zara yeh dil <u>sambar</u> to le zara
+
+45
+00:01:01,580 --> 00:01:01,900
+Yeh shaam dhal to le zara yeh dil sambar <u>to</u> le zara
+
+46
+00:01:01,900 --> 00:01:02,580
+Yeh shaam dhal to le zara yeh dil sambar to <u>le</u> zara
+
+47
+00:01:02,580 --> 00:01:03,420
+Yeh shaam dhal to le zara yeh dil sambar to le <u>zara</u>
+
+48
+00:01:03,420 --> 00:01:03,880
+<u>Ma</u> thodi der ji to lo nash ke ghot pee to lo
+
+49
+00:01:03,880 --> 00:01:04,840
+Ma <u>thodi</u> der ji to lo nash ke ghot pee to lo
+
+50
+00:01:04,840 --> 00:01:05,820
+Ma thodi <u>der</u> ji to lo nash ke ghot pee to lo
+
+51
+00:01:05,820 --> 00:01:06,400
+Ma thodi der <u>ji</u> to lo nash ke ghot pee to lo
+
+52
+00:01:06,400 --> 00:01:06,840
+Ma thodi der ji <u>to</u> lo nash ke ghot pee to lo
+
+53
+00:01:06,840 --> 00:01:07,360
+Ma thodi der ji to <u>lo</u> nash ke ghot pee to lo
+
+54
+00:01:07,360 --> 00:01:08,300
+Ma thodi der ji to lo <u>nash</u> ke ghot pee to lo
+
+55
+00:01:08,300 --> 00:01:08,800
+Ma thodi der ji to lo nash <u>ke</u> ghot pee to lo
+
+56
+00:01:08,800 --> 00:01:09,620
+Ma thodi der ji to lo nash ke <u>ghot</u> pee to lo
+
+57
+00:01:09,620 --> 00:01:10,460
+Ma thodi der ji to lo nash ke ghot <u>pee</u> to lo
+
+58
+00:01:10,460 --> 00:01:14,660
+Ma thodi der ji to lo nash ke ghot pee <u>to</u> lo
+
+59
+00:01:14,660 --> 00:01:15,100
+Ma thodi der ji to lo nash ke ghot pee to <u>lo</u>
+
+60
+00:01:15,100 --> 00:01:16,280
+<u>Abhi</u> to kuch kaha nahi, abhi to kuch usna nahi
+
+61
+00:01:16,280 --> 00:01:16,560
+Abhi <u>to</u> kuch kaha nahi, abhi to kuch usna nahi
+
+62
+00:01:16,560 --> 00:01:17,120
+Abhi to <u>kuch</u> kaha nahi, abhi to kuch usna nahi
+
+63
+00:01:17,120 --> 00:01:18,300
+Abhi to kuch <u>kaha</u> nahi, abhi to kuch usna nahi
+
+64
+00:01:18,300 --> 00:01:19,220
+Abhi to kuch kaha <u>nahi,</u> abhi to kuch usna nahi
+
+65
+00:01:19,220 --> 00:01:19,500
+Abhi to kuch kaha nahi, abhi to kuch usna nahi
+
+66
+00:01:19,500 --> 00:01:20,280
+Abhi to kuch kaha nahi, <u>abhi</u> to kuch usna nahi
+
+67
+00:01:20,280 --> 00:01:20,520
+Abhi to kuch kaha nahi, abhi <u>to</u> kuch usna nahi
+
+68
+00:01:20,520 --> 00:01:21,120
+Abhi to kuch kaha nahi, abhi to <u>kuch</u> usna nahi
+
+69
+00:01:21,120 --> 00:01:21,980
+Abhi to kuch kaha nahi, abhi to kuch <u>usna</u> nahi
+
+70
+00:01:21,980 --> 00:01:23,080
+Abhi to kuch kaha nahi, abhi to kuch usna <u>nahi</u>
+
+71
+00:01:23,080 --> 00:01:23,800
+<u>Pura</u> na mano baat ka yeh pyaar hai gila nahi
+
+72
+00:01:23,800 --> 00:01:24,520
+Pura <u>na</u> mano baat ka yeh pyaar hai gila nahi
+
+73
+00:01:24,520 --> 00:01:25,220
+Pura na <u>mano</u> baat ka yeh pyaar hai gila nahi
+
+74
+00:01:25,220 --> 00:01:26,480
+Pura na mano <u>baat</u> ka yeh pyaar hai gila nahi
+
+75
+00:01:26,480 --> 00:01:26,860
+Pura na mano baat <u>ka</u> yeh pyaar hai gila nahi
+
+76
+00:01:26,860 --> 00:01:27,800
+Pura na mano baat ka <u>yeh</u> pyaar hai gila nahi
+
+77
+00:01:27,800 --> 00:01:28,400
+Pura na mano baat ka yeh <u>pyaar</u> hai gila nahi
+
+78
+00:01:28,400 --> 00:01:29,180
+Pura na mano baat ka yeh pyaar <u>hai</u> gila nahi
+
+79
+00:01:29,180 --> 00:01:29,980
+Pura na mano baat ka yeh pyaar hai <u>gila</u> nahi
+
+80
+00:01:29,980 --> 00:01:31,100
+Pura na mano baat ka yeh pyaar hai gila <u>nahi</u>
+
+81
+00:01:32,340 --> 00:01:33,040
+<u>Abhi</u> na jao chod kar ke dil abhi bara nahi
+
+82
+00:01:33,040 --> 00:01:33,240
+Abhi <u>na</u> jao chod kar ke dil abhi bara nahi
+
+83
+00:01:33,240 --> 00:01:33,580
+Abhi na <u>jao</u> chod kar ke dil abhi bara nahi
+
+84
+00:01:33,580 --> 00:01:34,020
+Abhi na jao <u>chod</u> kar ke dil abhi bara nahi
+
+85
+00:01:34,020 --> 00:01:34,660
+Abhi na jao chod <u>kar</u> ke dil abhi bara nahi
+
+86
+00:01:34,660 --> 00:01:35,400
+Abhi na jao chod kar <u>ke</u> dil abhi bara nahi
+
+87
+00:01:35,400 --> 00:01:35,780
+Abhi na jao chod kar ke <u>dil</u> abhi bara nahi
+
+88
+00:01:35,780 --> 00:01:36,440
+Abhi na jao chod kar ke dil <u>abhi</u> bara nahi
+
+89
+00:01:36,440 --> 00:01:36,700
+Abhi na jao chod kar ke dil abhi <u>bara</u> nahi
+
+90
+00:01:36,700 --> 00:01:37,380
+Abhi na jao chod kar ke dil abhi bara <u>nahi</u>
+

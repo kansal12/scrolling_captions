@@ -3,17 +3,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Custom Video Player</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>MP4 Video Player with WebVTT Subtitles</title>
+    <style>
+        /* Basic styles for the video player */
+        .video-container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background-color: #f0f0f0;
+            text-align: center;
+        }
+        video {
+            width: 100%;
+            height: auto;
+            background-color: #000;
+        }
+        /* Styles for subtitles */
+        ::cue {
+            background: rgba(0, 0, 0, 0.8);
+            color: rgb(32, 196, 40);
+            font-size: 1.2em;
+            padding: 0.2em;
+        }
+        /* Highlight classes */
+        ::cue(.highlight1) {
+            background-color: yellow;
+            color: black;
+        }
+    </style>
 </head>
 <body>
     <div class="video-container">
         <video id="videoPlayer" controls>
             <source src="video.mp4" type="video/mp4">
-            <track src="./subtitles.vtt" kind="subtitles" srclang="en" label="English">
+            <track kind="subtitles" src="subtitles.vtt" srclang="en" label="English" default>
             Your browser does not support the video tag.
         </video>
     </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', (event) => {
+            const videoPlayer = document.getElementById('videoPlayer');
+            videoPlayer.textTracks[0].mode = 'showing'; // Ensures subtitles are shown by default
+        });
+    </script>
 </body>
 </html>
-

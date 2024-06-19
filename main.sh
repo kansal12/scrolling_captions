@@ -1,0 +1,1 @@
+"ffmpeg -i video.mp4 -vf "ass=vocals.ass" -c:a copy video_sub.mp4"   
